@@ -1,0 +1,40 @@
+
+
+body{
+  background-color: pink;
+}
+
+.row-fluid{
+  margin:20px;
+  background-color: whitesmoke;
+
+}
+.product{
+  margin-bottom: 5%;
+}
+
+button{
+  border: 2px solid gray;
+  width: 120px;
+  padding: 2px;
+}
+
+button:hover{
+  color: green;
+}
+
+.cl-lg-6{
+  margin:10px;
+  font-size: 24px;
+  background-color: whitesmoke;
+  color:black;
+  cursor: pointer;
+}
+
+
+<style>
+  #verify-form,
+  #response-text {
+    display: none;
+  }
+</style>
